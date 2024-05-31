@@ -17,4 +17,7 @@
 ### 3. Media mape
 Satur attēlus un video, kuri tika iegūti komētas aktivitātes izstrādes procesā. Tie attēli un video ir vienīgais rezultātu apskatīšānas veids, tā kā komētas aktivitātes renderēšana netika realizēta.
 
+### 4. FlyByGen mape
+Satur FlyByGen rīka izpētes laikā izveidotus failus.
+
 
